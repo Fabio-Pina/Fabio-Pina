@@ -16,3 +16,11 @@
 - :email: E-mail: fabiopinapeixoto@gmail.com
 - :globe_with_meridians: **LinkedIn :link: https://www.linkedin.com/in/f%C3%A1bio-pina-21b3871ba/**
 - :warning: Aprender com erros e não desistir!
+
+### 🛠 Tecnologias
+
+Tecnologias e ferramentas que eu uso:
+
+- HTML
+- JavaScript
+- CSS
