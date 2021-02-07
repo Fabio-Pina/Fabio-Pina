@@ -24,3 +24,4 @@ Tecnologias e ferramentas que eu uso:
 - HTML
 - JavaScript
 - CSS
+- [TypeScript](https://www.typescriptlang.org/)
