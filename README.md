@@ -24,5 +24,8 @@ Tecnologias e ferramentas que eu uso:
 - HTML
 - JavaScript
 - CSS
+- Git
+- Github
+- Visual Studio Code
 
 
