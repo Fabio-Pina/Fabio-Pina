@@ -24,4 +24,5 @@ Tecnologias e ferramentas que eu uso:
 - HTML
 - JavaScript
 - CSS
-- [TypeScript](https://www.typescriptlang.org/)
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
