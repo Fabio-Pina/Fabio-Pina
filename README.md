@@ -1,5 +1,7 @@
 ### Olá pessoal 👋
 
+# Fabio Pina :man_technologist:
+
 - :construction: Atualmente estou me dedicando para me tornar ***Desenvolvedor FrontEnd !!!***
 - :beginner: Estudando os pilares da informática tais como **Lógica de Programação, Algoritmos, Estrutura de Dados** e posteriormente **Programação Orientada à Objetos**.
 - :computer: Estou estudando **HTML, CSS e JavaScript** tecnologias básicas para um Desenvolvedor.
