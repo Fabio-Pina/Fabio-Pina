@@ -1,5 +1,3 @@
-### Olá pessoal 👋
-
 # Fabio Pina :man_technologist:
 
 - :construction: Atualmente estou me dedicando para me tornar ***Desenvolvedor FrontEnd !!!***
@@ -27,6 +25,9 @@
 ![Badge](https://img.shields.io/static/v1?label=GIT&message=git&color=red&style=for-the-badge&logo=GIT)
 ![Badge](https://img.shields.io/static/v1?label=GITHUB&message=github&color=black&style=for-the-badge&logo=GITHUB)
 
+![Fabio-Pina github stats](https://github-readme-stats.vercel.app/api?username=Fabio-Pina&show_icons=true&theme=radical)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Pina&repo=github-readme-stats)](https://github.com/Fabio-Pina/github-readme-stats)
 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Pina&hide=html&layout=compact&theme=radical"/>  
 
