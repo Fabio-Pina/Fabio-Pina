@@ -27,7 +27,4 @@
 
 ![Fabio-Pina github stats](https://github-readme-stats.vercel.app/api?username=Fabio-Pina&show_icons=true&theme=radical)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Pina&repo=github-readme-stats)](https://github.com/Fabio-Pina/github-readme-stats)
-
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Pina&hide=html&layout=compact&theme=radical"/>  
-
