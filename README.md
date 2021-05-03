@@ -2,7 +2,6 @@
 
 - :construction: Atualmente estou me dedicando para me tornar ***Desenvolvedor FrontEnd !!!***
 - :beginner: Estudando os pilares da informática tais como **Lógica de Programação, Algoritmos, Estrutura de Dados** e posteriormente **Programação Orientada à Objetos**.
-- :computer: Estou estudando **HTML, CSS e JavaScript** tecnologias básicas para um Desenvolvedor.
 - :hearts: Tenho paixão pelo **Desenvolvimento Web.**
 - :black_nib: Gosto de escrever código e ver a interação homem x máquina.
 - 👯 As colaborações virão em tempo oportuno quando as técnicas estiverem sólidas. Tenho certeza que investirei nisto.
@@ -26,7 +25,7 @@
 https://www.linkedin.com/in/f%C3%A1bio-pina-21b3871ba/
 
 ### :email: Email
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![Badges](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 fabiopinapeixoto@gmail.com
 
