@@ -22,6 +22,10 @@
 ![Badges](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Badges](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=red)
 
+### Ambiente de Desenvolvimento Integrado (IDE)
+
+![Badges](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 ### Sistema Operacional
 
 ![Badges](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -43,6 +47,10 @@
 
 ![Badges](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 (fabiopinapeixoto@gmail.com)
+
+### Língua Estrangeira
+
+![Badges](https://img.shields.io/badge/Inglês-294172?style=for-the-badge&logo=Ingles&logoColor=white)
 
 
 ![Fabio-Pina github stats](https://github-readme-stats.vercel.app/api?username=Fabio-Pina&show_icons=true&theme=radical)
