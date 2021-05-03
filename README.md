@@ -13,13 +13,22 @@
 - :books: Leitura também é um modo de aprender.
 - :hourglass: Aproveitar o tempo para estudar e aprimorar.
 - :rocket: Buscando o crescimento profissional.
-- :email: E-mail: fabiopinapeixoto@gmail.com
-- :globe_with_meridians: **LinkedIn :link: https://www.linkedin.com/in/f%C3%A1bio-pina-21b3871ba/**
 - :warning: Aprender com erros e não desistir!
 
 ### 🛠 Tecnologias
 
+![Badges](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Badges](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Badges](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### :globe_with_meridians: Rede Social
+![Badges](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+https://www.linkedin.com/in/f%C3%A1bio-pina-21b3871ba/
+
+### :email: Email
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+fabiopinapeixoto@gmail.com
 
 
 ![Fabio-Pina github stats](https://github-readme-stats.vercel.app/api?username=Fabio-Pina&show_icons=true&theme=radical)
