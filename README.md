@@ -40,9 +40,9 @@
 (https://www.linkedin.com/in/f%C3%A1bio-pina-21b3871ba/)
 
 ### :email: Email
-![Badges](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-fabiopinapeixoto@gmail.com
+![Badges](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+(fabiopinapeixoto@gmail.com)
 
 
 ![Fabio-Pina github stats](https://github-readme-stats.vercel.app/api?username=Fabio-Pina&show_icons=true&theme=radical)
