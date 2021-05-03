@@ -19,11 +19,8 @@
 
 ### 🛠 Tecnologias
 
-![Badge](https://img.shields.io/static/v1?label=HTML&message=5&color=orange&style=for-the-badge&logo=HTML)
-![Badge](https://img.shields.io/static/v1?label=JavaScript&message=JS&color=yellow&style=for-the-badge&logo=JAVASCRIPT)
-![Badge](https://img.shields.io/static/v1?label=CSS&message=3&color=green&style=for-the-badge&logo=CSS)
-![Badge](https://img.shields.io/static/v1?label=GIT&message=git&color=red&style=for-the-badge&logo=GIT)
-![Badge](https://img.shields.io/static/v1?label=GITHUB&message=github&color=black&style=for-the-badge&logo=GITHUB)
+
+
 
 ![Fabio-Pina github stats](https://github-readme-stats.vercel.app/api?username=Fabio-Pina&show_icons=true&theme=radical)
 
